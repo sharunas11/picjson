@@ -1,0 +1,269 @@
+[
+{
+ "frame_id":1, 
+ "filename":"/content/drive/MyDrive/Clocks/clock.jpg", 
+ "objects": [ 
+  {"class_id":74, "name":"clock", "relative_coordinates":{"center_x":0.497010, "center_y":0.561621, "width":0.300727, "height":0.557968}, "confidence":0.754266}
+ ] 
+}, 
+{
+ "frame_id":2, 
+ "filename":"/content/drive/MyDrive/Clocks/clock2.jpg", 
+ "objects": [ 
+  {"class_id":74, "name":"clock", "relative_coordinates":{"center_x":0.651665, "center_y":0.511030, "width":0.673170, "height":1.007840}, "confidence":0.935582}
+ ] 
+}, 
+{
+ "frame_id":3, 
+ "filename":"/content/drive/MyDrive/Clocks/clock3.jpg", 
+ "objects": [ 
+  {"class_id":74, "name":"clock", "relative_coordinates":{"center_x":0.500435, "center_y":0.483457, "width":0.123825, "height":0.181241}, "confidence":0.993143}
+ ] 
+}, 
+{
+ "frame_id":4, 
+ "filename":"/content/drive/MyDrive/Clocks/clock4.jpg", 
+ "objects": [ 
+  {"class_id":74, "name":"clock", "relative_coordinates":{"center_x":0.542470, "center_y":0.565811, "width":0.356784, "height":0.594979}, "confidence":0.870939}
+ ] 
+}, 
+{
+ "frame_id":5, 
+ "filename":"/content/drive/MyDrive/Clocks/clock5.jpg", 
+ "objects": [ 
+  {"class_id":74, "name":"clock", "relative_coordinates":{"center_x":0.680585, "center_y":0.570598, "width":0.179697, "height":0.323611}, "confidence":0.894593}
+ ] 
+}, 
+{
+ "frame_id":6, 
+ "filename":"/content/drive/MyDrive/Clocks/clock6.jpg", 
+ "objects": [ 
+  {"class_id":74, "name":"clock", "relative_coordinates":{"center_x":0.676787, "center_y":0.570428, "width":0.358456, "height":0.553716}, "confidence":0.889625}
+ ] 
+}, 
+{
+ "frame_id":7, 
+ "filename":"/content/drive/MyDrive/Clocks/clock7.jpg", 
+ "objects": [ 
+  {"class_id":58, "name":"pottedplant", "relative_coordinates":{"center_x":0.249389, "center_y":0.612231, "width":0.108320, "height":0.112684}, "confidence":0.772402}, 
+  {"class_id":58, "name":"pottedplant", "relative_coordinates":{"center_x":0.218058, "center_y":0.925668, "width":0.120200, "height":0.145327}, "confidence":0.642513}, 
+  {"class_id":58, "name":"pottedplant", "relative_coordinates":{"center_x":0.112172, "center_y":0.935151, "width":0.138496, "height":0.121225}, "confidence":0.625873}, 
+  {"class_id":58, "name":"pottedplant", "relative_coordinates":{"center_x":0.395330, "center_y":0.644223, "width":0.158697, "height":0.183619}, "confidence":0.622165}, 
+  {"class_id":58, "name":"pottedplant", "relative_coordinates":{"center_x":0.427585, "center_y":0.536810, "width":0.075199, "height":0.095160}, "confidence":0.606757}, 
+  {"class_id":58, "name":"pottedplant", "relative_coordinates":{"center_x":0.294722, "center_y":0.696875, "width":0.107530, "height":0.205540}, "confidence":0.560169}, 
+  {"class_id":58, "name":"pottedplant", "relative_coordinates":{"center_x":0.891235, "center_y":0.813873, "width":0.210698, "height":0.269276}, "confidence":0.532613}, 
+  {"class_id":58, "name":"pottedplant", "relative_coordinates":{"center_x":0.285959, "center_y":0.539684, "width":0.052329, "height":0.063689}, "confidence":0.348433}, 
+  {"class_id":58, "name":"pottedplant", "relative_coordinates":{"center_x":0.079419, "center_y":0.443764, "width":0.160493, "height":0.823243}, "confidence":0.334018}, 
+  {"class_id":58, "name":"pottedplant", "relative_coordinates":{"center_x":0.459661, "center_y":0.625256, "width":0.037803, "height":0.090648}, "confidence":0.326205}, 
+  {"class_id":58, "name":"pottedplant", "relative_coordinates":{"center_x":0.327761, "center_y":0.518618, "width":0.067148, "height":0.131881}, "confidence":0.312087}, 
+  {"class_id":58, "name":"pottedplant", "relative_coordinates":{"center_x":0.334473, "center_y":0.908472, "width":0.141864, "height":0.174135}, "confidence":0.271022}, 
+  {"class_id":58, "name":"pottedplant", "relative_coordinates":{"center_x":0.117722, "center_y":0.917819, "width":0.103958, "height":0.079250}, "confidence":0.258670}
+ ] 
+}, 
+{
+ "frame_id":8, 
+ "filename":"/content/drive/MyDrive/Clocks/clock8.jpg", 
+ "objects": [ 
+  {"class_id":74, "name":"clock", "relative_coordinates":{"center_x":0.306043, "center_y":0.585808, "width":0.267712, "height":0.515257}, "confidence":0.904130}
+ ] 
+}, 
+{
+ "frame_id":9, 
+ "filename":"/content/drive/MyDrive/Clocks/clock9.jpg", 
+ "objects": [ 
+  {"class_id":74, "name":"clock", "relative_coordinates":{"center_x":0.494618, "center_y":0.503645, "width":0.123065, "height":0.197778}, "confidence":0.985335}
+ ] 
+}, 
+{
+ "frame_id":10, 
+ "filename":"/content/drive/MyDrive/Clocks/clock10.jpg", 
+ "objects": [ 
+  {"class_id":74, "name":"clock", "relative_coordinates":{"center_x":0.498255, "center_y":0.490095, "width":0.602591, "height":0.941892}, "confidence":0.995779}
+ ] 
+}, 
+{
+ "frame_id":11, 
+ "filename":"/content/drive/MyDrive/Clocks/clock11.jpg", 
+ "objects": [ 
+  {"class_id":74, "name":"clock", "relative_coordinates":{"center_x":0.504391, "center_y":0.556997, "width":0.287124, "height":0.525930}, "confidence":0.586822}
+ ] 
+}, 
+{
+ "frame_id":12, 
+ "filename":"/content/drive/MyDrive/Clocks/clock12.jpg", 
+ "objects": [ 
+  {"class_id":74, "name":"clock", "relative_coordinates":{"center_x":0.328501, "center_y":0.537544, "width":0.300734, "height":0.443684}, "confidence":0.855863}
+ ] 
+}, 
+{
+ "frame_id":13, 
+ "filename":"/content/drive/MyDrive/Clocks/clock13.jpg", 
+ "objects": [ 
+  {"class_id":74, "name":"clock", "relative_coordinates":{"center_x":0.544845, "center_y":0.490193, "width":0.378233, "height":0.742284}, "confidence":0.619474}
+ ] 
+}, 
+{
+ "frame_id":14, 
+ "filename":"/content/drive/MyDrive/Clocks/clock14.jpg", 
+ "objects": [ 
+  {"class_id":74, "name":"clock", "relative_coordinates":{"center_x":0.344088, "center_y":0.482975, "width":0.295515, "height":0.376320}, "confidence":0.740854}, 
+  {"class_id":73, "name":"book", "relative_coordinates":{"center_x":0.772328, "center_y":0.611486, "width":0.448570, "height":0.348237}, "confidence":0.499148}
+ ] 
+}, 
+{
+ "frame_id":15, 
+ "filename":"/content/drive/MyDrive/Clocks/clock15.jpg", 
+ "objects": [ 
+  {"class_id":74, "name":"clock", "relative_coordinates":{"center_x":0.348917, "center_y":0.607710, "width":0.246658, "height":0.379975}, "confidence":0.969421}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.249748, "center_y":0.657357, "width":0.510119, "height":0.703768}, "confidence":0.793889}
+ ] 
+}, 
+{
+ "frame_id":16, 
+ "filename":"/content/drive/MyDrive/Clocks/clock16.jpg", 
+ "objects": [ 
+  {"class_id":74, "name":"clock", "relative_coordinates":{"center_x":0.479893, "center_y":0.482114, "width":0.255504, "height":0.372271}, "confidence":0.984528}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.487372, "center_y":0.655530, "width":0.452755, "height":0.634664}, "confidence":0.367731}
+ ] 
+}, 
+{
+ "frame_id":17, 
+ "filename":"/content/drive/MyDrive/Clocks/clock17.jpg", 
+ "objects": [ 
+  {"class_id":29, "name":"frisbee", "relative_coordinates":{"center_x":0.493894, "center_y":0.673797, "width":0.141837, "height":0.214601}, "confidence":0.715538}, 
+  {"class_id":29, "name":"frisbee", "relative_coordinates":{"center_x":0.497525, "center_y":0.914814, "width":0.903731, "height":0.178532}, "confidence":0.449767}
+ ] 
+}, 
+{
+ "frame_id":18, 
+ "filename":"/content/drive/MyDrive/Clocks/clock18.jpg", 
+ "objects": [ 
+  {"class_id":74, "name":"clock", "relative_coordinates":{"center_x":0.459719, "center_y":0.593166, "width":0.253309, "height":0.396248}, "confidence":0.786498}
+ ] 
+}, 
+{
+ "frame_id":19, 
+ "filename":"/content/drive/MyDrive/Clocks/clock19.jpg", 
+ "objects": [ 
+  {"class_id":74, "name":"clock", "relative_coordinates":{"center_x":0.596903, "center_y":0.540945, "width":0.328111, "height":0.471089}, "confidence":0.718416}, 
+  {"class_id":73, "name":"book", "relative_coordinates":{"center_x":0.147375, "center_y":0.751724, "width":0.282476, "height":0.196967}, "confidence":0.438466}
+ ] 
+}, 
+{
+ "frame_id":20, 
+ "filename":"/content/drive/MyDrive/Clocks/clock20.jpg", 
+ "objects": [ 
+  {"class_id":74, "name":"clock", "relative_coordinates":{"center_x":0.504986, "center_y":0.505092, "width":0.416248, "height":0.659250}, "confidence":0.997342}
+ ] 
+}, 
+{
+ "frame_id":21, 
+ "filename":"/content/drive/MyDrive/Clocks/clock21.jpg", 
+ "objects": [ 
+  {"class_id":74, "name":"clock", "relative_coordinates":{"center_x":0.479340, "center_y":0.387964, "width":0.271887, "height":0.389511}, "confidence":0.996825}, 
+  {"class_id":39, "name":"bottle", "relative_coordinates":{"center_x":0.328634, "center_y":0.905349, "width":0.059873, "height":0.192381}, "confidence":0.985247}, 
+  {"class_id":39, "name":"bottle", "relative_coordinates":{"center_x":0.385862, "center_y":0.949374, "width":0.057967, "height":0.101150}, "confidence":0.279165}
+ ] 
+}, 
+{
+ "frame_id":22, 
+ "filename":"/content/drive/MyDrive/Clocks/clock22.jpg", 
+ "objects": [ 
+  {"class_id":74, "name":"clock", "relative_coordinates":{"center_x":0.491926, "center_y":0.452773, "width":0.214079, "height":0.306796}, "confidence":0.991136}
+ ] 
+}, 
+{
+ "frame_id":23, 
+ "filename":"/content/drive/MyDrive/Clocks/clock23.jpg", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":24, 
+ "filename":"/content/drive/MyDrive/Clocks/clock24.jpg", 
+ "objects": [ 
+  {"class_id":74, "name":"clock", "relative_coordinates":{"center_x":0.499469, "center_y":0.379654, "width":0.237209, "height":0.376929}, "confidence":0.996195}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.489168, "center_y":0.655303, "width":0.442444, "height":0.688197}, "confidence":0.925774}
+ ] 
+}, 
+{
+ "frame_id":25, 
+ "filename":"/content/drive/MyDrive/Clocks/clock25.jpg", 
+ "objects": [ 
+  {"class_id":75, "name":"vase", "relative_coordinates":{"center_x":0.672001, "center_y":0.900211, "width":0.095554, "height":0.121266}, "confidence":0.980108}, 
+  {"class_id":74, "name":"clock", "relative_coordinates":{"center_x":0.532482, "center_y":0.418876, "width":0.150169, "height":0.227909}, "confidence":0.924523}, 
+  {"class_id":58, "name":"pottedplant", "relative_coordinates":{"center_x":0.678775, "center_y":0.794235, "width":0.211862, "height":0.336218}, "confidence":0.742266}
+ ] 
+}, 
+{
+ "frame_id":26, 
+ "filename":"/content/drive/MyDrive/Clocks/clock26.jpg", 
+ "objects": [ 
+  {"class_id":74, "name":"clock", "relative_coordinates":{"center_x":0.330652, "center_y":0.507301, "width":0.216794, "height":0.286355}, "confidence":0.993541}
+ ] 
+}, 
+{
+ "frame_id":27, 
+ "filename":"/content/drive/MyDrive/Clocks/clock27.jpg", 
+ "objects": [ 
+  {"class_id":74, "name":"clock", "relative_coordinates":{"center_x":0.500041, "center_y":0.514558, "width":0.220246, "height":0.352917}, "confidence":0.992399}
+ ] 
+}, 
+{
+ "frame_id":28, 
+ "filename":"/content/drive/MyDrive/Clocks/clock28.jpg", 
+ "objects": [ 
+  {"class_id":41, "name":"cup", "relative_coordinates":{"center_x":0.500967, "center_y":0.490299, "width":0.445631, "height":0.812719}, "confidence":0.921649}
+ ] 
+}, 
+{
+ "frame_id":29, 
+ "filename":"/content/drive/MyDrive/Clocks/clock29.jpg", 
+ "objects": [ 
+  {"class_id":74, "name":"clock", "relative_coordinates":{"center_x":0.287688, "center_y":0.534976, "width":0.418064, "height":0.625955}, "confidence":0.959978}
+ ] 
+}, 
+{
+ "frame_id":30, 
+ "filename":"/content/drive/MyDrive/Clocks/clock30.jpg", 
+ "objects": [ 
+  {"class_id":74, "name":"clock", "relative_coordinates":{"center_x":0.483463, "center_y":0.518603, "width":0.501147, "height":0.749251}, "confidence":0.962274}
+ ] 
+}, 
+{
+ "frame_id":31, 
+ "filename":"/content/drive/MyDrive/Clocks/clock31.jpg", 
+ "objects": [ 
+  {"class_id":74, "name":"clock", "relative_coordinates":{"center_x":0.532235, "center_y":0.490298, "width":0.481528, "height":0.845974}, "confidence":0.961836}
+ ] 
+}, 
+{
+ "frame_id":32, 
+ "filename":"/content/drive/MyDrive/Clocks/clock32.jpg", 
+ "objects": [ 
+  {"class_id":74, "name":"clock", "relative_coordinates":{"center_x":0.496606, "center_y":0.491450, "width":0.185904, "height":0.288431}, "confidence":0.975385}
+ ] 
+}, 
+{
+ "frame_id":33, 
+ "filename":"/content/drive/MyDrive/Clocks/clock33.jpg", 
+ "objects": [ 
+  {"class_id":74, "name":"clock", "relative_coordinates":{"center_x":0.503024, "center_y":0.511314, "width":0.568921, "height":0.753267}, "confidence":0.564677}
+ ] 
+}, 
+{
+ "frame_id":34, 
+ "filename":"/content/drive/MyDrive/Clocks/clock34.jpg", 
+ "objects": [ 
+  {"class_id":74, "name":"clock", "relative_coordinates":{"center_x":0.501521, "center_y":0.493896, "width":0.716662, "height":0.897724}, "confidence":0.982024}
+ ] 
+}, 
+{
+ "frame_id":35, 
+ "filename":"/content/drive/MyDrive/Clocks/clock35.jpg", 
+ "objects": [ 
+  {"class_id":74, "name":"clock", "relative_coordinates":{"center_x":0.491561, "center_y":0.569936, "width":0.253338, "height":0.360753}, "confidence":0.941600}
+ ] 
+}
+]
